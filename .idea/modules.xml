@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseSsm.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseSsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseSsm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseSsm_main.iml" group="BaseSsm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseSsm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseSsm_test.iml" group="BaseSsm" />
+    </modules>
+  </component>
+</project>
